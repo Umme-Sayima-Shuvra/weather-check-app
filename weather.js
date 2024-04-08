@@ -1,5 +1,5 @@
 const apiKey = "c2465390ac120a9978c6c4928b853a1b";
-const apiURL = "https://api.openweathermap.org/data/2.5/forecast?units=metric&q=";
+const apiURL = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const temp = document.querySelector(".temp");
 const country = document.querySelector(".city");
 const humidity = document.querySelector(".humidity");
